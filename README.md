@@ -2,7 +2,7 @@
 *I am a girl who loves to learn and explore new technologies. I like to help and do what I love. ❤️*
 
 - ✨ There's always something new to learn ✨
-- 🌱 I’m currently learning about MS Azure Fundamentals and Front-end Development.
+- 🌱 I’m currently learning Front-end Development.
 - 🚀 I'm Learning English.
 - 👯 I like to support and contribute to the community in the most creative way.
 - 🌲 I love walking in the countryside.
