@@ -8,5 +8,3 @@
 - 🌲 I love walking in the countryside.
 - 📫 How to reach me: reeynarl@gmail.com
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reynarl)](https://github.com/reynarl/github-readme-stats)
-
