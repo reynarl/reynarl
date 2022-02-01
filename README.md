@@ -5,6 +5,5 @@
 - 🌱 I’m currently learning Front-end Development.
 - 🚀 I'm Learning English.
 - 👯 I like to support and contribute to the community in the most creative way.
-- 🌲 I love walking in the countryside.
 - 📫 How to reach me: reeynarl@gmail.com
 
