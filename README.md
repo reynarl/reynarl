@@ -15,6 +15,3 @@
 <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"></code>
 <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"></code>
 <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-plain.svg"></code>
-
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=reynarl&left_color=violet&right_color=pink)
