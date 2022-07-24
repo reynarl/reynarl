@@ -2,7 +2,6 @@
 
 - 🌱 I’m currently learning Front-end Development.
 - 🚀 I'm Learning English.
-- 👯 I like to support and contribute to the community in the most creative way.
 - 📫 How to reach me: reeynarl@gmail.com
 
 **Languages and tools:** <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="40" /> 
