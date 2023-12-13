@@ -1,18 +1,21 @@
-## Hi there! <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="50px">  
+## Hi there, I'm Reey <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="50px">  
 
-- 🌱 I’m currently learning Front-end Development.
+- 💖 Passionate about Frontend Development.
+- 🌱 I’m currently learning Backend Development.
 - 🚀 I'm Learning English.
+- 🍰 Fun fact: I love cheesecake.
 - 📫 How to reach me: reeynarl@gmail.com
+
+| | <a href="https://github.com/reynarl/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reynarl&theme=github_dark&layout=compact&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 **Languages and tools:** <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="40" /> 
 
-<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"></code>
-<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg"></code>
-<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg"></code>
-<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg"></code>
-<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"></code>
-<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"></code>
-<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"></code>
-<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-plain.svg"></code>
+<img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"> <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"> <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg"> <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" /> <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" />
+
+<img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg"> <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg"> <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg"> <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
+
+
+<img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"> <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"> <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-plain.svg">
 
 
