@@ -6,9 +6,6 @@
 - 🍰 Fun fact: I love cheesecake.
 - 📫 How to reach me: reeynarl@gmail.com
 
-| | <a href="https://github.com/reynarl/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reynarl&theme=github_dark&layout=compact&hide_border=true" /></a> |
-| ------------- | ------------- |
-
 **Languages and tools:** <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="40" /> 
 
 <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"> <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"> <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg"> <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" /> <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" />
